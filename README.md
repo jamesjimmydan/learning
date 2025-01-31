@@ -1,1 +1,96 @@
 # learning
+Repo containing resources and sample code that has aided my professional development.
+
+# Topics
+- General Python
+  - Python for Data Analysis (https://wesmckinney.com/book/) ✅
+  - Getting started with python (https://www.programiz.com/python-programming/first-program) ✅
+  - Pandas User Guide (https://pandas.pydata.org/docs/user_guide) ✅
+  - pandas/numpy exercises
+- Stats / ML
+  - Machine Learning a Probabalistic Perspective
+  - statsmodel (https://www.statsmodels.org/stable/index.html) ✅
+  - scikit-learn (https://scikit-learn.org/stable/getting_started.html) ✅
+  - scipy (https://scipy.org/) ✅
+- Geospatial
+  - Geographic Data Science with Python (https://geographicdata.science/book/intro.html) ✅
+  - geopandas ✅
+  - crs and projections ✅
+  - h3 and spatial indexing ✅
+  - gdal (https://gdal.org/programs/index.html)
+- Graphs
+  - networkx ✅
+  - Graph theory and applications (http://www.maths.lse.ac.uk/Personal/jozef/LTCC/Graph_Theory_Bondy_Murty.pdf)
+  - Coursera: Introduction to Graph Theory (https://www.coursera.org/learn/graphs) ✅
+  - Coursera: Graph Analytics for Big Data (https://www.coursera.org/learn/big-data-graph-analytics)
+  - Temporal Graph Learning
+  - gavis
+  - Neo4j (https://neo4j.com/docs/getting-started/) ✅
+    - cypher (https://neo4j.com/docs/cypher-cheat-sheet/5/auradb-enterprise/) ✅
+  - spark graphx (https://spark.apache.org/graphx/)
+  - CMPR 727: Mathematical, statistical and probabilistic foundations of machine learning (https://www.youtube.com/playlist?list=PL_5SuHtr8fsrK9NqWWSL4YL8urMAHLsvU) ✅
+  - Probabalistic Graphical Models (https://www.cs.cmu.edu/~epxing/Class/10708-17/notes-17/)
+  - incomplete graphs (https://www.osti.gov/servlets/purl/1315684)
+- Deep Learning
+  - little book of deep learning (https://fleuret.org/public/lbdl.pdf) ✅
+  - Mathematical Introduction to Deep Learning
+  - Tutorials (https://www.simplilearn.com/tutorials/deep-learning-tutorial)
+  - pytorch (https://pytorch.org/tutorials/) ✅
+  - pytorch lecture (https://github.com/srush/pytorch-lecture) ✅
+  - Puzzles
+    - https://github.com/srush/Tensor-Puzzles
+    - https://colab.research.google.com/github/srush/Autodiff-Puzzles ✅
+    - https://github.com/srush/GPU-Puzzles
+    - https://github.com/srush/LLM-Training-Puzzles
+  - Computer vision intro (https://github.com/Lkruitwagen/teaching_computer_vision)
+  - Diffusion model (https://towardsdatascience.com/paper-explained-high-resolution-image-synthesis-with-latent-diffusion-models-f372f7636d42)
+  - How backpropogation works (https://towardsdatascience.com/understanding-backpropagation-algorithm-7bb3aa2f95fd) ✅
+  - LLMs
+    - LLM Reading list (https://gist.github.com/veekaybee/be375ab33085102f9027853128dc5f0e)
+    - LLM Blog (https://lilianweng.github.io/)
+    - Geof Hinton Computer Vision Paper
+    - https://jalammar.github.io/illustrated-transformer/
+    - langchain (https://langchain.readthedocs.io/en/latest/) ✅
+    - LlamaIndex (https://gpt-index.readthedocs.io/en/latest/index.html) ✅
+    - Huggingface (https://huggingface.co/)
+    - sandbox finetunning
+- Time series
+  - facebook prohpet
+  - https://www.econometrics-with-r.org/14-5-apatadlm.html ✅
+  - https://www.youtube.com/playlist?list=PLvcbYUQ5t0UHOLnBzl46_Q6QKtFgfMGc3 ✅
+  - https://github.com/ritvikmath/Time-Series-Analysis ✅
+  - https://www.econstor.eu/bitstream/10419/28020/1/507401956.PDF ✅
+  - https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/4233/econometric-approach.pdf ✅
+  - https://blog.eviews.com/2017/04/autoregressive-distributed-lag-ardl.html?m=1 ✅
+  - https://www.youtube.com/playlist?list=PL6Y8SvWdPo0-i7twlfuv1QrHESkWuonaD ✅
+- Computer Sciance
+  - Structure and Interpretation of Computer Programs ✅
+  - python modules
+    - threading (https://realpython.com/intro-to-python-threading/) ✅
+    - multiprocesor (https://www.digitalocean.com/community/tutorials/python-multiprocessing-example) ✅
+    - coroutines (https://www.geeksforgeeks.org/coroutine-in-python/) ✅
+    - functools (https://www.python-engineer.com/posts/functools-overview/) ✅
+    - ittertools (https://www.geeksforgeeks.org/python-itertools/) ✅
+    - contextmanagers (https://realpython.com/python-with-statement/) ✅
+    - setuptools (https://setuptools.pypa.io/en/latest/userguide/quickstart.html) ✅
+    - async (https://realpython.com/python-async-features/)
+  - Declarative programming
+  - Mojo basics ✅
+  - Javascript basics ✅
+- Information theory
+  - Standford Introduction to Information Theory (https://web.stanford.edu/~montanar/RESEARCH/BOOK/partA.pdf)
+  - Shefield intro (https://eprints.whiterose.ac.uk/128393/1/1802.05968.pdf)
+- Data Engineering
+  - DBT
+  - Databricks
+- Other Maths
+  - Godel Esher Bach book
+  - Linear Algebra intuition ✅
+  - Fourier transformation intuition
+
+
+# Next
+- incomplete graphs
+- Probabalistic Graphical Models
+- Graphx
+
